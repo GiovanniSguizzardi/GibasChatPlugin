@@ -2,11 +2,13 @@
 
 # 🗨️ GibasChat
 
-Um plugin de chat avançado e personalizável para servidores Minecraft, com suporte a **canais de chat** (global, local e privado), **formatação com tags** integrada ao [GibasTags](https://github.com/seu-user/GibasTags) e **recursos modernos** para comunidades roleplay, survival ou PvP.
+Um plugin de chat avançado e personalizável para servidores Minecraft, com suporte a **canais de chat** (global, local e privado), **formatação com tags** integrada ao [GibasTags](https://github.com/GiovanniSguizzardi/GibasTagsPlugin) e **recursos modernos** para comunidades roleplay, survival ou PvP.
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21-brightgreen)
-![Feito por](https://img.shields.io/badge/Feito%20por-Giovanni-blue)
-![Plugin Integrado](https://img.shields.io/badge/Integrado%20com-GibasTags-purple)
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-1.21%2B-blue?style=for-the-badge&logo=minecraft" />
+  <img src="https://img.shields.io/badge/Java-21+-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/API-Paper%20%2F%20Spigot-yellow?style=for-the-badge" />
+</p>
 
 ---
 
