@@ -1,6 +1,6 @@
 ![minecraft_chat](https://github.com/user-attachments/assets/92aaba25-f2a7-4dab-a33c-e3f40957ea2d)
 
-# 🗨️ GibasChat
+<h1 align="center">GibasChat</h1>
 
 Um plugin de chat avançado e personalizável para servidores Minecraft, com suporte a **canais de chat** (global, local e privado), **formatação com tags** integrada ao [GibasTags](https://github.com/GiovanniSguizzardi/GibasTagsPlugin) e **recursos modernos** para comunidades roleplay, survival ou PvP.
 
